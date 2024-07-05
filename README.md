@@ -1,4 +1,4 @@
-# sequelize-lazy-migrations
+# sequelize-auto-migrations
 
 Migration generator &amp; runner for sequelize
 
@@ -7,7 +7,7 @@ This package provide two tools:
 * `runmigration` - tool for apply created by first tool migrations
 
 ## Install
-`npm install sequelize-lazy-migrations`
+`npm install @jesobreira/sequelize-lazy-migrations`
 
 ## Usage
 * Init sequelize, with sequelize-cli, using `sequelize init`
